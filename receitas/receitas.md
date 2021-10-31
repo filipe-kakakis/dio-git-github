@@ -12,5 +12,3 @@
 ### Acompanhamentos
 - Arroz
 - Batata Palha
-
-## Modo de Preparo
